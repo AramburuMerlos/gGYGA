@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.Rproj.user
+# RStudio Project
+.*.Rpoj
+
+# GYGA API key
+GYGA_API_key.txt 
