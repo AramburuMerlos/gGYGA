@@ -1,2 +1,2 @@
 # gGYGA
-Gridded yield potential estimates for the Global Yield Gap Atlas (GYGA)
+Code used to generate the gridded yield potential estimates of the Global Yield Gap Atlas (GYGA)
